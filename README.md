@@ -38,3 +38,17 @@ If you encounter any issues, ensure that all services are running correctly and 
 
 ### Customization
 Make sure to replace `yourusername/your-repo` with your actual GitHub username and repository name. You can also adjust any content to better reflect your project!
+
+📦ELK
+ ┣ 📂consumer
+ ┃ ┣ 📜consumerelastic.js
+ ┃ ┗ 📜consumerkafka.js
+ ┣ 📂producer
+ ┃ ┗ 📜producer.js
+ ┣ 📜docker-compose.txt
+ ┣ 📜docker-compose.yml
+ ┣ 📜elasticsearch.png
+ ┣ 📜kafdrop.png
+ ┣ 📜kibana.png
+ ┣ 📜package-lock.json
+ ┗ 📜package.json
