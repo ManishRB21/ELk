@@ -39,6 +39,7 @@ If you encounter any issues, ensure that all services are running correctly and 
 ### Customization
 Make sure to replace `yourusername/your-repo` with your actual GitHub username and repository name. You can also adjust any content to better reflect your project!
 
+```bash
 📦ELK
  ┣ 📂consumer
  ┃ ┣ 📜consumerelastic.js
@@ -52,3 +53,4 @@ Make sure to replace `yourusername/your-repo` with your actual GitHub username a
  ┣ 📜kibana.png
  ┣ 📜package-lock.json
  ┗ 📜package.json
+```
