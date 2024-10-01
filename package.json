@@ -1,0 +1,9 @@
+{
+  "name": "kafka-log-aggregation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "kafkajs": "^2.0.0",
+    "@elastic/elasticsearch": "^8.0.0"
+  }
+}
